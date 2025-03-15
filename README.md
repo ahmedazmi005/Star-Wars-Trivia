@@ -1,10 +1,10 @@
-# Web Development Project 3 - *Name of App Here*
+# Web Development Project 3 - Star Wars Trivia
 
-Submitted by: **Your Name Here**
+Submitted by: Ahmed Azmi
 
-This web app: **insert description**
+This web app: A Star Wars flashcard/trivia game where the user has to guess which character is being displayed on screen.
 
-Time spent: **X** hours spent in total
+Time spent: 3 hours spent in total
 
 ## Required Features
 
