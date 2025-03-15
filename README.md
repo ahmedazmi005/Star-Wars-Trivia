@@ -1,26 +1,26 @@
-# Web Development Project 2 - Star Wars Trivia
+# Web Development Project 3 - *Name of App Here*
 
-Submitted by: Ahmed Azmi
+Submitted by: **Your Name Here**
 
-This web app: Star Wars Trivia is a trivia game intended for people (fans of the franchise or not!) to test their Star Wars knowledge through a flashcard game. I used the React hook UseState to add functionality/interactivity to the next button, as well as allowing the flashcard to flip between 'question' and answer.
+This web app: **insert description**
 
-Time spent: 4 hours spent in total
+Time spent: **X** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] **The title of the card set and some information about it, such as a short description and the total number of cards are displayed**
-- [x] **A single card at a time is displayed, only showing one of the components of the information pair**
-- [x] **A list of card pairs is created**
-- [x] **Clicking on the card shows the corresponding component of the information pair**
-- [x] **Clicking the next button displays a random new card**
+- [x] **The user can enter their guess in a box before seeing the flipside of the card**
+- [x] **Clicking on a submit button shows visual feedback about whether the answer was correct or incorrect**
+- [x] **A back button is displayed on the card and can be used to return to the previous card in a set sequence**
+- [x] **A next button is displayed on the card and can be used to navigate to the next card in a set sequence**
 
 The following **optional** features are implemented:
 
-- [x] Cards contains images in addition to or in place of text
-- [ ] Cards have different visual styles such as color based on their category
-  - [ ] *visual style implemented*
+- [x] A shuffle button is used to randomize the order of the cards
+- [ ] A user's answer may be counted as correct even when it is slightly different from the target answer
+- [ ] A counter displays the user's current and longest streak of correct responses
+- [ ] A user can mark a card that they have mastered and have it removed from the pool of answers as well as added to a list of mastered cards
 
 The following **additional** features are implemented:
 
@@ -28,19 +28,17 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
+Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/H2pVqLP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-If the gif does not display please refer to this link: https://imgur.com/a/Nf0Whus
+<img src='https://i.imgur.com/yKuGi3p.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
-GIF created with quicktime player converted to gif
-
+GIF created with QuickTime Player converted to gif with Adobe Express!
 ## Notes
 
 Describe any challenges encountered while building the app.
-It was really hard to conceptualize and translate how I learned UseState during the WEB102 session as well as the Bro Code youtube video I watched (lol), but once I compared it to the in class activity I realized it wasn't so bad, and that I just had to start by creating a dictionary with the characters list. Then, figuring out how to navigate that list with useState was relatively straightforward.
+
+It was tough to handle the userinput as intended at first.
 
 ## License
 
