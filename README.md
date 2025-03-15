@@ -32,6 +32,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/yKuGi3p.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+https://imgur.com/a/web102-project-3-demo-ahmed-sSBsuzw
 
 GIF created with QuickTime Player converted to gif with Adobe Express!
 ## Notes
